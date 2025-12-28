@@ -9,9 +9,9 @@ export interface StudentProfile {
 
 // Mock student profile - simulates a logged-in student
 export const mockStudentProfile: StudentProfile = {
-  name: "Alex Johnson",
-  email: "alex.johnson@university.edu",
-  cgpa: 8.5,
+  name: "Nikunj Verma",
+  email: "nikunjdemo@gmail.com",
+  cgpa: 7.5,
   branch: "CSE",
   skills: ["React", "TypeScript", "Node.js", "Python", "MongoDB", "Git"],
   resumeKeywords: [

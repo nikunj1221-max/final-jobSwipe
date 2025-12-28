@@ -38,7 +38,7 @@ const mockJobs: Job[] = [
     description:
       "We are looking for a passionate frontend developer to join our team. You will work on building modern web applications using React and TypeScript. Experience with Next.js and Tailwind CSS is a plus.",
     eligibility: {
-      minCGPA: 7.0,
+      minCGPA: 9.0,
       branches: ["CSE", "IT", "ECE"],
     },
     atsScore: 78,
@@ -52,7 +52,7 @@ const mockJobs: Job[] = [
     description:
       "Join our fast-paced startup as a full stack developer. You will be responsible for building scalable web applications from scratch. Knowledge of cloud platforms and microservices architecture is preferred.",
     eligibility: {
-      minCGPA: 7.5,
+      minCGPA: 8.5,
       branches: ["CSE", "IT"],
     },
     atsScore: 65,
